@@ -103,3 +103,8 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+<<<<<<< HEAD
+=======
+
+blabla bla commits
+>>>>>>> 2c3cde64b4c60cf115f572e269c217350d766fc8
